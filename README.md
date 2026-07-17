@@ -35,3 +35,13 @@ flowchart LR
     K --> L[OpenAI]
     L --> M[Gmail]
     M --> N[Cliente]
+
+## Visão das automações
+
+### Processamento de declarações e geração de pendências
+
+![Fluxo de processamento de declarações de IRPF](images/1-fluxo_processamento_irpf.jpeg)
+
+### Cobrança automática de documentos pendentes
+
+![Fluxo de cobrança de documentos pendentes](images/2-fluxo_cobranca_pendencias.jpeg)
