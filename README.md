@@ -35,7 +35,7 @@ flowchart LR
     K --> L[OpenAI]
     L --> M[Gmail]
     M --> N[Cliente]
-
+```
 ## Visão das automações
 
 ### Processamento de declarações e geração de pendências
